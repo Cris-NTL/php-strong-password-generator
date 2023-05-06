@@ -1,0 +1,36 @@
+/* general css */
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+/* index.php css */
+body {
+    background-color: rgba(32, 178, 171, 0.5);
+}
+
+h2 {
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+}
+
+form {
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 25px
+}
+
+/* password.php css */
+
+p {
+    text-align: center;
+}
+
+.ms_btn {
+    padding: 1rem;
+    border-radius: 25px;
+    color:  rgba(32, 178, 171, 0.5);
+    background-color: rgb(226, 226, 226);
+    font-weight: bold;
+    border: none;
+}
